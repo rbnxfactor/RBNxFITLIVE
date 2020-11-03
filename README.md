@@ -5,10 +5,10 @@ Hello Everyone
 I'm looking for a group or an individual who is willing to tackle a dynamic new problem that will help them compete in technology industries. 
 Suggestions are acceptable for resolving complex tasks in an internship project. Further updates and changes are being made to this project.
 Our objective is to research the layout that I mention in the files below and to be more creative in the design. A user interface that keeps customers on the page. 
-I'm also in need of a back-end developer who wants to learn new challenges in node.js | express.js | react.js | EJS | Redux. 
+I'm also in need of a back-end developer who wants to learn new challenges in node.js | express.js | react.js | EJS | Redux | MongoDB | MONGOOSE | SQL | Database. 
 
 The back-end are welcome with suggestions, because I deliberately created a couple of pages with missing flowchart for filling the blank.
-
+ 
 I previously wireframe my web project layout and I need a UI/UX member who is passionate about eye-catching prototype design. 
 Terrible mistake at the time, was not aware that a platform like the web stream can animate my prototype. It is only for front-end interface and user interface/ UX designer.
 
